@@ -1,0 +1,1 @@
+this is a conflict with file3.txt in master and new-branch
